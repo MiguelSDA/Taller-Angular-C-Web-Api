@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\src\\app\\services\\factura.service.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\factura.service.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\src\\app\\components\\facturas\\facturas.component.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\facturas\\facturas.component.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\src\\app\\models\\factura.model.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\models\\factura.model.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\src\\main.server.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.server.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\server.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\tsconfig.spec.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.spec.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\tsconfig.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\tsconfig.app.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.app.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\package.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\package-lock.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\angular.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:angular.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "factura.model.ts",
+              "DocumentMoniker": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\src\\app\\models\\factura.model.ts",
+              "RelativeDocumentMoniker": "src\\app\\models\\factura.model.ts",
+              "ToolTip": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\src\\app\\models\\factura.model.ts",
+              "RelativeToolTip": "src\\app\\models\\factura.model.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-24T16:42:33.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "factura.service.ts",
+              "DocumentMoniker": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\src\\app\\services\\factura.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\factura.service.ts",
+              "ToolTip": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\src\\app\\services\\factura.service.ts",
+              "RelativeToolTip": "src\\app\\services\\factura.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-24T16:40:58.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "facturas.component.ts",
+              "DocumentMoniker": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\src\\app\\components\\facturas\\facturas.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\components\\facturas\\facturas.component.ts",
+              "ToolTip": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\src\\app\\components\\facturas\\facturas.component.ts",
+              "RelativeToolTip": "src\\app\\components\\facturas\\facturas.component.ts",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-23T17:39:21.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.server.ts",
+              "DocumentMoniker": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\src\\main.server.ts",
+              "RelativeDocumentMoniker": "src\\main.server.ts",
+              "ToolTip": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\src\\main.server.ts",
+              "RelativeToolTip": "src\\main.server.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-23T17:39:02.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tsconfig.spec.json",
+              "DocumentMoniker": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\tsconfig.spec.json",
+              "RelativeDocumentMoniker": "tsconfig.spec.json",
+              "ToolTip": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\tsconfig.spec.json",
+              "RelativeToolTip": "tsconfig.spec.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T17:24:05.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\tsconfig.json",
+              "RelativeDocumentMoniker": "tsconfig.json",
+              "ToolTip": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\tsconfig.json",
+              "RelativeToolTip": "tsconfig.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T17:23:50.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tsconfig.app.json",
+              "DocumentMoniker": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\tsconfig.app.json",
+              "RelativeDocumentMoniker": "tsconfig.app.json",
+              "ToolTip": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\tsconfig.app.json",
+              "RelativeToolTip": "tsconfig.app.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T17:23:29.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-23T17:23:07.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T17:22:50.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AQIAAJEzAAAAAAAAAAAiwJ4zAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T17:22:28.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\angular.json",
+              "RelativeDocumentMoniker": "angular.json",
+              "ToolTip": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\angular.json",
+              "RelativeToolTip": "angular.json",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAiwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T17:22:13.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-23T17:21:59.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "server.ts",
+              "DocumentMoniker": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\server.ts",
+              "RelativeDocumentMoniker": "server.ts",
+              "ToolTip": "C:\\Users\\brepe\\Desktop\\Nueva carpeta\\PazYSalvoAppClient-master\\server.ts",
+              "RelativeToolTip": "server.ts",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAC4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-23T17:21:10.869Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
